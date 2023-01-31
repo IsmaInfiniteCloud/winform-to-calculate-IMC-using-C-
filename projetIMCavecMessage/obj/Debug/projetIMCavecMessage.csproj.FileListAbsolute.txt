@@ -1,0 +1,11 @@
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\bin\Debug\projetIMCavecMessage.exe.config
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\bin\Debug\projetIMCavecMessage.exe
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\bin\Debug\projetIMCavecMessage.pdb
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.csproj.AssemblyReference.cache
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.Form1.resources
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.Properties.Resources.resources
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.csproj.GenerateResource.cache
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.exe
+C:\Users\Ismail\Desktop\C#Course\projetIMCavecMessage\projetIMCavecMessage\obj\Debug\projetIMCavecMessage.pdb
